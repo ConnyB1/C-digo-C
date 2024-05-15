@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+
+project(ObjextDeetedtion)
+
+set(OpenCV_DIR C:\Users\costco\Documents\libraries\opencv\build)
